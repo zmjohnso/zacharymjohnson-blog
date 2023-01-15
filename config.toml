@@ -1,4 +1,4 @@
-baseurl      = "zachary-m-johnson"
+baseurl      = "https://"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
